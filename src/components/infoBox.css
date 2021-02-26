@@ -1,0 +1,30 @@
+.infobox {
+  width: 33.33%;
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 10px;
+}
+
+.info-boxes {
+  margin: 10px;
+  line-height: 10px;
+}
+
+.infoBox__title {
+  font-size: 15px;
+  color: gray;
+}
+
+.infoBox__cases {
+  color: red;
+}
+
+.proText {
+  font-size: 14px;
+  color: gray;
+}
+
+.infoBox__today {
+  color: #d369bb;
+  opacity: 0.9;
+}

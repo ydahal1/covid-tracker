@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.header__dropdown {
+  outline: none;
+  padding: 10px;
+}
+
+.logo {
+  height: 39px;
+  object-fit: contain;
+}

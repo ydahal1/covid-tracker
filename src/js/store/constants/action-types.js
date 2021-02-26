@@ -1,0 +1,2 @@
+export const ADD_COVID_DATA = "ADD_COVID_DATA";
+export const SET_CURRENT_COUNTRY = "SET_CURRENT_COUNTRY";

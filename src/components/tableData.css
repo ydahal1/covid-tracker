@@ -1,0 +1,15 @@
+.table__container {
+  overflow: scroll;
+  height: 50vh;
+  background: white;
+  padding: 10px;
+  /* scroll-behavior: smooth; */
+}
+
+.table tr:nth-of-type(odd) {
+  background-color: #f3f2f8;
+}
+
+.table td {
+  padding: 0.4rem;
+}
